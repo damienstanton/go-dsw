@@ -1,0 +1,10 @@
+*.DS_Store
+*.swp
+*.o
+*.so
+env/
+bin/
+node_modules/
+.vscode/
+.idea/
+vendor/*/*
